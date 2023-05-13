@@ -1,5 +1,5 @@
 echo "Cloning Reposito
-git clone https://github.com/Freakshot254/Chat /Chat
+git clone https://github.com/Doctorstra/Chat
 cd /Chat 
 echo "installing requirements"
 pip3 install -U -r requirements.txt
