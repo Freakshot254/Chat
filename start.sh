@@ -1,4 +1,4 @@
-echo "Cloning Repository"
+echo "Cloning Reposito
 git clone https://github.com/Freakshot254/Chat /Chat
 cd /Chat 
 echo "installing requirements"
