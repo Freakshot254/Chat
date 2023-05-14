@@ -1,5 +1,6 @@
 import logging
 import logging.config
+import os
 
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
